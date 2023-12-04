@@ -8,17 +8,21 @@ public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
     private readonly IMyServices _myServices;
+    private readonly IchatService _chatservice;
 
-    public HomeController(ILogger<HomeController> logger,IMyServices myServices)
+    public HomeController(ILogger<HomeController> logger,IMyServices myServices,IchatService chatservice)
     {
         _logger = logger;
         _myServices= myServices;
+        _chatservice= chatservice;
     }
 
     public IActionResult Index()
     {
        var test= _myServices.GetMessage();
+       var chatservicea=_chatservice.execute();
        ViewBag.Message=test.ToString();
+       ViewBag.chatService=chatservicea.ToString();
         return View();
     }
 

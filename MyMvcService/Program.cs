@@ -3,6 +3,7 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 builder.Services.AddScoped<IMyServices, MyService>();
+builder.Services.AddScoped<IchatService ,chatService>();
 
 var app = builder.Build();
 

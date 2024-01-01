@@ -7,13 +7,14 @@
     public static void Main(string[] args)
     {
    
-    PrintHello.myMethod();    
+    PrintHello helloInstance = new PrintHello();
+        helloInstance.myMethod();    
     }
   }
 
   public class PrintHello{
      public static void myMethod(){
-        Console.WriteLine("Hello World!");
+        Console.WriteLine("Hello Worlds");
     }
   }
  

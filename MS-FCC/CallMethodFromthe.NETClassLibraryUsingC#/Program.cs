@@ -14,7 +14,7 @@
 
   public class PrintHello{
      public static void myMethod(){
-        Console.WriteLine("Hello Worlds");
+        Console.WriteLine("Hello sWorlds");
     }
   }
  

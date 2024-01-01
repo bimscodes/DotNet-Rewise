@@ -1,0 +1,14 @@
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/bin/Debug/net7.0/AddDecesionLogic
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/bin/Debug/net7.0/AddDecesionLogic.deps.json
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/bin/Debug/net7.0/AddDecesionLogic.runtimeconfig.json
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/bin/Debug/net7.0/AddDecesionLogic.dll
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/bin/Debug/net7.0/AddDecesionLogic.pdb
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.AssemblyInfoInputs.cache
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.AssemblyInfo.cs
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.csproj.CoreCompileInputs.cache
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.dll
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/refint/AddDecesionLogic.dll
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.pdb
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/AddDecesionLogic.genruntimeconfig.cache
+/Users/dipabk/Documents/donteworld/AddDecesionLogic/obj/Debug/net7.0/ref/AddDecesionLogic.dll

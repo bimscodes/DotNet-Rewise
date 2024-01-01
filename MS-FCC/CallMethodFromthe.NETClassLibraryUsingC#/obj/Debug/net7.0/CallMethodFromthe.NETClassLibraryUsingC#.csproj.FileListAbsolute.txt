@@ -1,0 +1,14 @@
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/bin/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/bin/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.deps.json
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/bin/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.runtimeconfig.json
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/bin/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.dll
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/bin/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.pdb
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.AssemblyInfoInputs.cache
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.AssemblyInfo.cs
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.csproj.CoreCompileInputs.cache
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.dll
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/refint/CallMethodFromthe.NETClassLibraryUsingC#.dll
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.pdb
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/CallMethodFromthe.NETClassLibraryUsingC#.genruntimeconfig.cache
+/Users/dipabk/Documents/donteworld/MS-FCC/CallMethodFromthe.NETClassLibraryUsingC#/obj/Debug/net7.0/ref/CallMethodFromthe.NETClassLibraryUsingC#.dll
